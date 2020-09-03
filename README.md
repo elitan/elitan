@@ -1,3 +1,3 @@
-### Hi there 👋
+## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=elitan&color=green)
+I'm Johan CEO and founder of [Nhost](https://nhost.io).
